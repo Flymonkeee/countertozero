@@ -1,0 +1,27 @@
+#stopwatch{
+    display: block;
+    text-align: center;
+    font-size: 25px;
+}
+
+#labelstopwatch{
+    display: block;
+    text-align: center;
+    font-size: 25px;
+}
+
+#homebtn{
+    display: block;
+    text-align: start;
+    font-size: 17px;
+}
+#chc{
+    display: block;
+    text-align: center;
+    font-size: 27px;
+}
+#dhd{
+    display: block;
+    text-align: end;
+    font-size: 27px;
+}
